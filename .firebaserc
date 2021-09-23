@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "hutte-verte": {
+      "hosting": {
+        "hutte-verte": [
+          "hutte-verte"
+        ]
+      }
+    }
+  }
+}
